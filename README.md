@@ -12,7 +12,7 @@ Home: www.kataxwork.com
 
 This application:
 
-> 6 actors - 2 pure blueprint, 2 pure C++, 2 BP and C++ components
+> 6 actors - 2 pure blueprint, 2 pure C++, 2 BP with C++ components
 
 > Using distance detection approache
 
